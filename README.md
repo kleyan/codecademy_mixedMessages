@@ -13,3 +13,9 @@ calling the first function for every array.
 
 ### How to change the sentences
 You can change the sentence options by changing the arrays from the start of the program.
+
+
+## How to run the programm
+```
+node main.js
+```
